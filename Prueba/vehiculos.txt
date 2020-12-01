@@ -1,0 +1,14 @@
+[
+    {
+        "_patente": "khj222",
+        "_marca": "gol",
+        "_modelo": "volswagen",
+        "_precio": "3500"
+    },
+    {
+        "_patente": "jja150",
+        "_marca": "gol",
+        "_modelo": "volswagen",
+        "_precio": "3500"
+    }
+]

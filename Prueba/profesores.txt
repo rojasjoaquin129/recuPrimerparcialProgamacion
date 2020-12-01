@@ -1,0 +1,10 @@
+[
+    {
+        "_legajo": "10",
+        "_nombre": "joaquin"
+    },
+    {
+        "_legajo": "15",
+        "_nombre": "joaquin"
+    }
+]

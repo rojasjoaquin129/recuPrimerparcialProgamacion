@@ -1,0 +1,22 @@
+[
+    {
+        "_email": "joaquin@mail.com",
+        "_password": "admin",
+        "_namefoto": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+        "_email": "camila@mail.com",
+        "_password": "user",
+        "_namefoto": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    {
+        "_email": "harrya@mail.com",
+        "_password": "user",
+        "_namefoto": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    {
+        "_email": "",
+        "_password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "_namefoto": "DSC_0046.jpg"
+    }
+]

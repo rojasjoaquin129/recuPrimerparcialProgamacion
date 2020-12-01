@@ -1,0 +1,12 @@
+[
+    {
+        "_nombre": "procesos",
+        "_id": 1,
+        "_cuatrimestre": "segundo"
+    },
+    {
+        "_nombre": "matematica",
+        "_id": 2,
+        "_cuatrimestre": "segundo"
+    }
+]
